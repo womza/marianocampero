@@ -1,0 +1,27 @@
+Zurb Foundation
+http://foundation.zurb.com/
+
+Font Awesome
+http://fortawesome.github.io/Font-Awesome/
+
+Google Fonts - Open Sans
+http://www.google.com/fonts/specimen/Open+Sans
+
+Image Resizer
+https://github.com/bfintal/bfi_thumb
+
+Basic jQuery Slider
+http://basic-slider.com/
+
+Fancybox v2
+http://fancyapps.com/fancybox/
+
+Demo Content:
+http://wikipedia.com
+
+Images: 
+http://www.deathtothestockphoto.com/
+http://www.gratisography.com/
+http://picjumbo.com/
+http://getrefe.tumblr.com/
+http://unsplash.com/

@@ -1,0 +1,1110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Legislator WordPress Theme\n"
+"POT-Creation-Date: 2015-07-16 06:59-0500\n"
+"PO-Revision-Date: 2015-07-16 06:58-0500\n"
+"Last-Translator: \n"
+"Language-Team: Rescue Themes <hello@rescuethemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Drats! Error 404 - Not Found."
+msgstr ""
+
+#: 404.php:17
+msgid "Maybe try one of these links or search?"
+msgstr ""
+
+#: 404.php:51
+msgid "Categories"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:41
+msgid "Asides"
+msgstr ""
+
+#: archive.php:44
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:47
+msgid "Images"
+msgstr ""
+
+#: archive.php:50
+msgid "Videos"
+msgstr ""
+
+#: archive.php:53
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:56
+msgid "Links"
+msgstr ""
+
+#: archive.php:59
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:62
+msgid "Audios"
+msgstr ""
+
+#: archive.php:65
+msgid "Chats"
+msgstr ""
+
+#: archive.php:68
+msgid "Archives"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comment on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-full.php:34 content-home.php:18 content-page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: content-full.php:40 content-home.php:24 content-page.php:41
+#: content-single.php:74 content.php:64
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:13
+msgid "Drats. Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"We weren&#39;t able to find anything that matched your search terms. Give it "
+"another go with some different keywords perchance."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-single.php:50
+msgid "Post Pages:"
+msgstr ""
+
+#: content-single.php:59 content.php:58
+msgid " Post"
+msgstr ""
+
+#: content-single.php:60 content.php:59
+msgid "Written by "
+msgstr ""
+
+#: content-single.php:60
+msgid " in"
+msgstr ""
+
+#: content-single.php:63
+msgid ", "
+msgstr ""
+
+#: content-single.php:72 content.php:61
+msgid "Leave a comment"
+msgstr ""
+
+#: content-single.php:72 content.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: content-single.php:72 content.php:61
+msgid "% Comments"
+msgstr ""
+
+#: content.php:52
+msgid "Continue Reading"
+msgstr ""
+
+#: footer.php:76
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:72
+msgid "Header"
+msgstr ""
+
+#: functions.php:73 functions.php:126 options.php:303
+msgid "Footer"
+msgstr ""
+
+#: functions.php:102
+msgid "Inner Pages"
+msgstr ""
+
+#: functions.php:110
+msgid "Home Hero Area"
+msgstr ""
+
+#: functions.php:118
+msgid "Home Events Area"
+msgstr ""
+
+#: header.php:59
+msgid "Menu"
+msgstr ""
+
+#: inc/BFI_Thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: inc/BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:161 inc/tgm.php:117
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:162 inc/tgm.php:118
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:163 inc/tgm.php:119
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:165 inc/tgm.php:121
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:166 inc/tgm.php:122
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:167 inc/tgm.php:123
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:168 inc/tgm.php:124
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:169 inc/tgm.php:125
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:170 inc/tgm.php:126
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:171 inc/tgm.php:127
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:172 inc/tgm.php:128
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:173 inc/tgm.php:129
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:174 inc/tgm.php:130
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:175 inc/tgm.php:131
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:177
+#: inc/class-tgm-plugin-activation.php:1956 inc/tgm.php:132
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:532
+#: inc/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1167
+#: inc/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1170
+#: inc/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1288
+#: inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1312
+#: inc/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2070
+#: inc/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2070
+#: inc/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:85
+#: inc/includes/class-options-framework-admin.php:86
+#: inc/includes/class-options-framework-admin.php:307
+msgid "Theme Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:173
+msgid "Save Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:174
+msgid "Restore Defaults"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:174
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:205
+msgid "Default options restored."
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:259
+msgid "Options saved."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "More Posts"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgid ""
+"<time datetime=\"%1$s\"><span class=\"post_day\">%2$s</span> <span class="
+"\"post_month\">%3$s</span></time>"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "Staff"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Trackback:"
+msgstr ""
+
+#: inc/tgm.php:120
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm.php:133
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: options.php:32
+msgid "One"
+msgstr ""
+
+#: options.php:33
+msgid "Two"
+msgstr ""
+
+#: options.php:34
+msgid "Three"
+msgstr ""
+
+#: options.php:35
+msgid "Four"
+msgstr ""
+
+#: options.php:36
+msgid "Five"
+msgstr ""
+
+#: options.php:41
+msgid "French Toast"
+msgstr ""
+
+#: options.php:42
+msgid "Pancake"
+msgstr ""
+
+#: options.php:43
+msgid "Omelette"
+msgstr ""
+
+#: options.php:44
+msgid "Crepe"
+msgstr ""
+
+#: options.php:45
+msgid "Waffle"
+msgstr ""
+
+#: options.php:109
+msgid "General"
+msgstr ""
+
+#: options.php:113
+msgid "Logo Image"
+msgstr ""
+
+#: options.php:114
+msgid "Upload your logo image. Recommended width: 200px."
+msgstr ""
+
+#: options.php:119
+msgid "Footer Copyright"
+msgstr ""
+
+#: options.php:120
+msgid ""
+"Enter copyright details for display in the footer. Copyright character "
+"( &#169; ) and current year will automatically appear."
+msgstr ""
+
+#: options.php:151
+msgid "Home: Bio"
+msgstr ""
+
+#: options.php:155
+msgid "Show the Home Biography Area?"
+msgstr ""
+
+#: options.php:156
+msgid ""
+"Check here if you want to display the biography section on the home page."
+msgstr ""
+
+#: options.php:162
+msgid "Home Bio Section Title"
+msgstr ""
+
+#: options.php:163
+msgid "Enter the main title of the home page bio section."
+msgstr ""
+
+#: options.php:169
+msgid "Image"
+msgstr ""
+
+#: options.php:170
+msgid "Upload an image for the biography section. Recommended width: 245px."
+msgstr ""
+
+#: options.php:175
+msgid "Summary"
+msgstr ""
+
+#: options.php:176
+msgid "Enter your bio summary text here (HTML will work too)."
+msgstr ""
+
+#: options.php:182
+msgid "Bio Button Color"
+msgstr ""
+
+#: options.php:183
+msgid ""
+"Change the button color in the home page bio section. The default is this "
+"sharp red: #e91f26 "
+msgstr ""
+
+#: options.php:189
+msgid "Home Bio Button Name"
+msgstr ""
+
+#: options.php:190
+msgid "Enter what you want your bio button to say."
+msgstr ""
+
+#: options.php:196
+msgid "Home Bio Button Link"
+msgstr ""
+
+#: options.php:197
+msgid ""
+"Enter the direct link to your about page (or any link, for that matter)."
+msgstr ""
+
+#: options.php:208
+msgid "More Details"
+msgstr ""
+
+#: options.php:209
+#, php-format
+msgid ""
+"Enter details forthe right side of the bio area. You can even use <a href="
+"\"%1$s\" target=\"_blank\">Rescue Shortcodes</a> if the plugin is activated."
+msgstr ""
+
+#: options.php:220
+msgid "Home: Events"
+msgstr ""
+
+#: options.php:224
+msgid "Show the Home Events Area?"
+msgstr ""
+
+#: options.php:225
+msgid ""
+"Check here if you want to display the Events area on the home page. Add "
+"content to this area in <b>Appearance > Widgets > Home Events Area</b>. "
+"Recommended Events Plugin: <a href=\"http://wordpress.org/plugins/the-events-"
+"calendar/\">The Events Calendar</a>"
+msgstr ""
+
+#: options.php:231
+msgid "Background Image"
+msgstr ""
+
+#: options.php:232
+msgid "Upload an image for the background of the home page events section."
+msgstr ""
+
+#: options.php:240
+msgid "Home: Latest News"
+msgstr ""
+
+#: options.php:244
+msgid "Show the Latest news Area?"
+msgstr ""
+
+#: options.php:245
+msgid ""
+"Check here if you want to display the Latest News area on the home page."
+msgstr ""
+
+#: options.php:251
+msgid "Home Latest News Title"
+msgstr ""
+
+#: options.php:252
+msgid "Enter the title for the home page Latest News area."
+msgstr ""
+
+#: options.php:258
+msgid "Home Blog Link"
+msgstr ""
+
+#: options.php:259
+msgid "Enter the direct link to your main blog or news page."
+msgstr ""
+
+#: options.php:265
+msgid "Number of Posts"
+msgstr ""
+
+#: options.php:266
+msgid "Enter the number of posts you want displayed on the home page. "
+msgstr ""
+
+#: options.php:275
+msgid "Home: Gallery"
+msgstr ""
+
+#: options.php:279
+msgid "Show the Home Gallery Area?"
+msgstr ""
+
+#: options.php:280
+msgid ""
+"Check here if you want to display the Gallery area on the home page. Make "
+"sure that you activate the <a href=\"http://rescuethemes.com/plugins/"
+"\">Rescue Portfolio Plugin</a>"
+msgstr ""
+
+#: options.php:286
+msgid "Home Gallery Area Title"
+msgstr ""
+
+#: options.php:287
+msgid "The title displayed at the top of the gallery area on the home page. "
+msgstr ""
+
+#: options.php:293
+msgid "Home Gallery Link"
+msgstr ""
+
+#: options.php:294
+msgid ""
+"Enter the direct link to your image gallery page. This is the URL of the "
+"page where you entered the Rescue Portfolio shortcode: [rescue_portfolio]"
+msgstr ""
+
+#: options.php:307
+msgid "Show donation bar?"
+msgstr ""
+
+#: options.php:308
+msgid "Check here if you want to display the donation bar."
+msgstr ""
+
+#: options.php:314
+msgid "Donation Button Text"
+msgstr ""
+
+#: options.php:315
+msgid "The text to be displayed on the donation button."
+msgstr ""
+
+#: options.php:321
+msgid "Donation Button Link"
+msgstr ""
+
+#: options.php:322
+msgid ""
+"The direct link to your donation page. Recommended Donation Plugin: <a href="
+"\"http://wordpress.org/plugins/seamless-donations/\">Seamless Donations</a>"
+msgstr ""
+
+#: options.php:328
+msgid "Twitter"
+msgstr ""
+
+#: options.php:329
+msgid "Enter your Twitter profile link."
+msgstr ""
+
+#: options.php:335
+msgid "Facebook"
+msgstr ""
+
+#: options.php:336
+msgid "Enter your Facebook link."
+msgstr ""
+
+#: options.php:342
+msgid "Google+"
+msgstr ""
+
+#: options.php:343
+msgid "Enter your Google Plus profile link."
+msgstr ""
+
+#: options.php:349
+msgid "Instagram"
+msgstr ""
+
+#: options.php:350
+msgid "Enter your Instagram profile link."
+msgstr ""
+
+#: options.php:356
+msgid "Vimeo"
+msgstr ""
+
+#: options.php:357 options.php:364
+msgid "Enter your Vimeo profile link."
+msgstr ""
+
+#: options.php:363
+msgid "Youtube"
+msgstr ""
+
+#: options.php:374
+msgid "Custom Styles"
+msgstr ""
+
+#: options.php:378
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:379
+msgid ""
+"All default styles are located in /css/style.css but you can overide those "
+"styles by entering CSS here. It's recommended that a <a href=\"http://codex."
+"wordpress.org/Child_Themes\">child theme</a> is used but if that isn't "
+"possible, add your custom styles here."
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-home.php:260
+msgid "Ampliar"
+msgstr ""
+
+#: template-home.php:262
+msgid "Ver Detalles"
+msgstr ""
+
+#: template-home.php:279
+msgid "Ver todos los Proyectos"
+msgstr ""
+
+#: tribe-events/list/single-event.php:81
+msgid "Find out more"
+msgstr ""
+
+#: tribe-events/modules/bar.php:31 tribe-events/modules/bar.php:68
+msgid "Find Events"
+msgstr ""
+
+#: tribe-events/modules/bar.php:39
+msgid "Event Views Navigation"
+msgstr ""
+
+#: tribe-events/modules/bar.php:41
+msgid "View As:"
+msgstr ""
+
+#: tribe-events/single-event.php:27
+#, php-format
+msgid "&laquo; All %s"
+msgstr ""
+
+#: tribe-events/single-event.php:38 tribe-events/single-event.php:140
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:63
+msgid "Location: "
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:72
+msgid "View This Event"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:87
+#, php-format
+msgid "Ver todo %s"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:93
+#, php-format
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Legislator"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rescuethemes.com/wordpress-themes/legislator"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A bold WordPress theme for politicians and political candidates."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rescue Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rescuethemes.com"
+msgstr ""

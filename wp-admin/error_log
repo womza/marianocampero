@@ -1,0 +1,304 @@
+[10-Jan-2015 17:39:47 UTC] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home/marianocampero/public_html/wp-content/plugins/wordpress-importer/wordpress-importer.php on line 91
+[06-Mar-2015 16:16:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:17:59 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:01 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:02 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:09 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:14 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:29 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:30 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:33 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:35 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:39 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:41 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:41 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:18:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:19:08 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:19:14 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:20:20 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:21:20 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:22:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:23:20 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:24:22 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:26:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:26:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:26:59 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:27:02 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:27:22 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:28:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:28:23 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:05 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:15 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:17 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:22 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:24 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:25 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:40 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:41 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:53 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:54 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:29:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:30:12 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:30:24 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:30:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:30:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:30:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:31:13 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:31:28 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:31:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:31:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:32:12 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:32:25 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:32:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:32:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:32:59 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:33:13 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:33:28 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:33:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:33:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:34:13 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:34:26 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:34:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:34:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:34:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:35:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:36:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:37:28 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:38:44 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:39:29 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:40:44 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:00 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:14 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:22 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:39 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:53 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:53 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:41:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:42:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:42:11 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:42:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:43:25 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:43:47 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:01 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:03 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:23 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:40 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:41 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:43 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:46 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:47 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:44:53 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:45:27 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:45:28 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:45:35 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:45:44 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:46:52 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:47:37 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:48:56 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:49:38 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:50:23 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:50:39 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:52:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:53:07 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:55:08 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 16:57:09 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:00:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:05 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:06 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:07 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:07 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:11 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:14 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:28 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:34 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:47 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:49 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:53 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:12:57 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:13:54 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:14:21 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:15:56 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:16:59 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:02 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:07 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:08 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:13 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:29 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:36 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:39 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:42 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:17:49 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:18:01 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:18:11 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:18:24 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:18:45 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:18:55 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 17:19:59 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Mar-2015 23:58:10 America/Buenos_Aires] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/eaccelerator.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-May-2015 08:57:19 UTC] Error Can't create/write to file '/tmp/#sql_dbcdd_0.MYI' (Errcode: 28) de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `wp_options` realizada por delete_site_transient, delete_site_option, delete_option
+[07-May-2015 08:57:19 UTC] Error Table 'wp_users' already exists de la base de datos de WordPress para la consulta CREATE TABLE wp_users (
+  ID bigint(20) unsigned NOT NULL auto_increment,
+  user_login varchar(60) NOT NULL default '',
+  user_pass varchar(64) NOT NULL default '',
+  user_nicename varchar(50) NOT NULL default '',
+  user_email varchar(100) NOT NULL default '',
+  user_url varchar(100) NOT NULL default '',
+  user_registered datetime NOT NULL default '0000-00-00 00:00:00',
+  user_activation_key varchar(60) NOT NULL default '',
+  user_status int(11) NOT NULL default '0',
+  display_name varchar(250) NOT NULL default '',
+  PRIMARY KEY  (ID),
+  KEY user_login_key (user_login),
+  KEY user_nicename (user_nicename)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_usermeta' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_usermeta (
+  umeta_id bigint(20) unsigned NOT NULL auto_increment,
+  user_id bigint(20) unsigned NOT NULL default '0',
+  meta_key varchar(255) default NULL,
+  meta_value longtext,
+  PRIMARY KEY  (umeta_id),
+  KEY user_id (user_id),
+  KEY meta_key (meta_key)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_terms' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_terms (
+ term_id bigint(20) unsigned NOT NULL auto_increment,
+ name varchar(200) NOT NULL default '',
+ slug varchar(200) NOT NULL default '',
+ term_group bigint(10) NOT NULL default 0,
+ PRIMARY KEY  (term_id),
+ KEY slug (slug),
+ KEY name (name)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_term_taxonomy' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_term_taxonomy (
+ term_taxonomy_id bigint(20) unsigned NOT NULL auto_increment,
+ term_id bigint(20) unsigned NOT NULL default 0,
+ taxonomy varchar(32) NOT NULL default '',
+ description longtext NOT NULL,
+ parent bigint(20) unsigned NOT NULL default 0,
+ count bigint(20) NOT NULL default 0,
+ PRIMARY KEY  (term_taxonomy_id),
+ UNIQUE KEY term_id_taxonomy (term_id,taxonomy),
+ KEY taxonomy (taxonomy)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_term_relationships' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_term_relationships (
+ object_id bigint(20) unsigned NOT NULL default 0,
+ term_taxonomy_id bigint(20) unsigned NOT NULL default 0,
+ term_order int(11) NOT NULL default 0,
+ PRIMARY KEY  (object_id,term_taxonomy_id),
+ KEY term_taxonomy_id (term_taxonomy_id)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_commentmeta' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_commentmeta (
+  meta_id bigint(20) unsigned NOT NULL auto_increment,
+  comment_id bigint(20) unsigned NOT NULL default '0',
+  meta_key varchar(255) default NULL,
+  meta_value longtext,
+  PRIMARY KEY  (meta_id),
+  KEY comment_id (comment_id),
+  KEY meta_key (meta_key)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_comments' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_comments (
+  comment_ID bigint(20) unsigned NOT NULL auto_increment,
+  comment_post_ID bigint(20) unsigned NOT NULL default '0',
+  comment_author tinytext NOT NULL,
+  comment_author_email varchar(100) NOT NULL default '',
+  comment_author_url varchar(200) NOT NULL default '',
+  comment_author_IP varchar(100) NOT NULL default '',
+  comment_date datetime NOT NULL default '0000-00-00 00:00:00',
+  comment_date_gmt datetime NOT NULL default '0000-00-00 00:00:00',
+  comment_content text NOT NULL,
+  comment_karma int(11) NOT NULL default '0',
+  comment_approved varchar(20) NOT NULL default '1',
+  comment_agent varchar(255) NOT NULL default '',
+  comment_type varchar(20) NOT NULL default '',
+  comment_parent bigint(20) unsigned NOT NULL default '0',
+  user_id bigint(20) unsigned NOT NULL default '0',
+  PRIMARY KEY  (comment_ID),
+  KEY comment_post_ID (comment_post_ID),
+  KEY comment_approved_date_gmt (comment_approved,comment_date_gmt),
+  KEY comment_date_gmt (comment_date_gmt),
+  KEY comment_parent (comment_parent),
+  KEY comment_author_email (comment_author_email(10))
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_links' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_links (
+  link_id bigint(20) unsigned NOT NULL auto_increment,
+  link_url varchar(255) NOT NULL default '',
+  link_name varchar(255) NOT NULL default '',
+  link_image varchar(255) NOT NULL default '',
+  link_target varchar(25) NOT NULL default '',
+  link_description varchar(255) NOT NULL default '',
+  link_visible varchar(20) NOT NULL default 'Y',
+  link_owner bigint(20) unsigned NOT NULL default '1',
+  link_rating int(11) NOT NULL default '0',
+  link_updated datetime NOT NULL default '0000-00-00 00:00:00',
+  link_rel varchar(255) NOT NULL default '',
+  link_notes mediumtext NOT NULL,
+  link_rss varchar(255) NOT NULL default '',
+  PRIMARY KEY  (link_id),
+  KEY link_visible (link_visible)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_options' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_options (
+  option_id bigint(20) unsigned NOT NULL auto_increment,
+  option_name varchar(64) NOT NULL default '',
+  option_value longtext NOT NULL,
+  autoload varchar(20) NOT NULL default 'yes',
+  PRIMARY KEY  (option_id),
+  UNIQUE KEY option_name (option_name)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_postmeta' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_postmeta (
+  meta_id bigint(20) unsigned NOT NULL auto_increment,
+  post_id bigint(20) unsigned NOT NULL default '0',
+  meta_key varchar(255) default NULL,
+  meta_value longtext,
+  PRIMARY KEY  (meta_id),
+  KEY post_id (post_id),
+  KEY meta_key (meta_key)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Table 'wp_posts' already exists de la base de datos de WordPress para la consulta 
+CREATE TABLE wp_posts (
+  ID bigint(20) unsigned NOT NULL auto_increment,
+  post_author bigint(20) unsigned NOT NULL default '0',
+  post_date datetime NOT NULL default '0000-00-00 00:00:00',
+  post_date_gmt datetime NOT NULL default '0000-00-00 00:00:00',
+  post_content longtext NOT NULL,
+  post_title text NOT NULL,
+  post_excerpt text NOT NULL,
+  post_status varchar(20) NOT NULL default 'publish',
+  comment_status varchar(20) NOT NULL default 'open',
+  ping_status varchar(20) NOT NULL default 'open',
+  post_password varchar(20) NOT NULL default '',
+  post_name varchar(200) NOT NULL default '',
+  to_ping text NOT NULL,
+  pinged text NOT NULL,
+  post_modified datetime NOT NULL default '0000-00-00 00:00:00',
+  post_modified_gmt datetime NOT NULL default '0000-00-00 00:00:00',
+  post_content_filtered longtext NOT NULL,
+  post_parent bigint(20) unsigned NOT NULL default '0',
+  guid varchar(255) NOT NULL default '',
+  menu_order int(11) NOT NULL default '0',
+  post_type varchar(20) NOT NULL default 'post',
+  post_mime_type varchar(100) NOT NULL default '',
+  comment_count bigint(20) NOT NULL default '0',
+  PRIMARY KEY  (ID),
+  KEY post_name (post_name),
+  KEY type_status_date (post_type,post_status,post_date,ID),
+  KEY post_parent (post_parent),
+  KEY post_author (post_author)
+) DEFAULT CHARACTER SET utf8 realizada por wp_upgrade, make_db_current_silent, dbDelta
+[07-May-2015 08:57:19 UTC] Error Can't create/write to file '/tmp/#sql_dbcdd_0.MYI' (Errcode: 28) de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `wp_options` realizada por wp_upgrade, upgrade_all, populate_options, delete_option
+[07-May-2015 08:57:19 UTC] Error Can't create/write to file '/tmp/#sql_dbcdd_0.MYI' (Errcode: 28) de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `wp_comments` realizada por wp_upgrade, upgrade_all, upgrade_415
+[07-May-2015 08:57:20 UTC] Error Can't create/write to file '/tmp/#sql_dbcdd_0.MYI' (Errcode: 28) de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `wp_options` realizada por wp_upgrade, upgrade_all, update_option
+[07-May-2015 08:57:20 UTC] Error Can't create/write to file '/tmp/#sql_dbcdd_0.MYI' (Errcode: 28) de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `wp_options` realizada por wp_upgrade, upgrade_all, update_option
