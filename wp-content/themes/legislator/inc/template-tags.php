@@ -10,7 +10,7 @@
 /*----------------------------------------------------*/
 if ( ! function_exists( 'rescue_excerpt_more' ) ) :
     function rescue_excerpt_more( $more ) {
-        return ' ... <i><a class="read-more" href="'. get_permalink( get_the_ID() ) . '">read more</a></i>';
+        return ' ... <i><a class="read-more" href="'. get_permalink( get_the_ID() ) . '">leer más</a></i>';
     }
     add_filter( 'excerpt_more', 'rescue_excerpt_more' );
 endif;

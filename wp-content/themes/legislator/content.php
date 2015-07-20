@@ -55,7 +55,7 @@ $format = get_post_format();
 
 	<footer class="entry_meta">
 		<ul>
-			<li class="post_format"><span class="rescue_staff"><?php echo ucfirst($format); _e(' Post','rescue');?></span></li>
+			<li class="post_format"><span class="rescue_staff"><?php _e(' Post','rescue');?></span></li>
 			<li><?php _e('Written by ','rescue'); the_author(); ?></li>
 			<li><?php if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) : ?>
 			<span class="comments-link"><?php comments_popup_link( __( 'Leave a comment', 'rescue' ), __( '1 Comment', 'rescue' ), __( '% Comments', 'rescue' ) ); ?></span>

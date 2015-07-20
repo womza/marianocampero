@@ -292,9 +292,9 @@ get_header(); ?>
                     <div class="mask">
                         <h2><?php echo get_the_title(); ?></h2>
                         <!-- Fancybox Image -->
-                        <a href="<?php echo $img_url ?>" class="fancybox info" rel="gallery_group" title="<?php echo get_the_title(); ?>"><?php _e('View Larger','rescue');?></a>
+                        <?php /*<a href="<?php echo $img_url ?>" class="fancybox info" rel="gallery_group" title="<?php echo get_the_title(); ?>"><?php _e('View Larger','rescue');?></a>*/ ?>
                         <!-- Permalink -->
-                        <a href="<?php the_permalink(); ?>" class="info" rel="gallery_group" title="<?php echo get_the_title(); ?> Details"><?php _e('Details','rescue');?></a>
+                        <a href="<?php the_permalink(); ?>" class="info" rel="gallery_group" title="<?php echo get_the_title(); ?> <?php _e('Details','rescue');?>"><?php _e('Details','rescue');?></a>
                     </div>
 
                     </div><!-- .view .view-first -->

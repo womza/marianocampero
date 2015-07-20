@@ -56,7 +56,7 @@ $format = get_post_format();
 
 	<footer class="entry_meta">
 		<ul>
-			<li class="post_format"><span class="rescue_staff"><?php echo ucfirst($format); _e(' Post','rescue');?></span></li>
+			<li class="post_format"><span class="rescue_staff"><?php _e(' Post','rescue');?></span></li>
 			<li><?php _e('Written by ','rescue'); the_author(); _e(' in','rescue'); ?>
 			<span class="category_details">
 						<?php 
